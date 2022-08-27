@@ -7,3 +7,6 @@
 [submodule "maps"]
 	path = maps
 	url = https://github.com/ut-amrl/amrl_maps.git
+[submodule "trayveet_maps"]
+	path = trayveet_maps
+	url = https://github.com/trayveet/trayveet_maps.git
